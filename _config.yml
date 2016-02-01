@@ -2,6 +2,7 @@ name: alchemy
 favicon: null
 layout_spectrum: 0.09978981106542051
 typography_spectrum: 0.43064427096396685
+title: Alchemy
 cta:
   domain: null
   bucket: null
